@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Domain for Sale - StarlinkIndia.tech</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #4e54c8, #8f94fb);
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      text-align: center;
+      background: rgba(0, 0, 0, 0.6);
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+      max-width: 100%;
+      width: 100%;
+      max-width: 500px;
+      box-sizing: border-box;
+    }
+    .header {
+      font-size: 36px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .subheader {
+      font-size: 20px;
+      margin: 10px 0 20px;
+    }
+    .cta-button {
+      display: inline-block;
+      padding: 15px 25px;
+      background-color: #25D366;
+      color: #fff;
+      font-size: 18px;
+      font-weight: bold;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+    .cta-button:hover {
+      background-color: #1da851;
+    }
+    .footer {
+      margin-top: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">This Domain is for Sale!</div>
+    <div class="subheader">
+      The domain <strong>StarlinkIndia.tech</strong> is available for purchase.  
+      <br> Contact us to make your offer!
+    </div>
+    <a 
+      href="https://wa.me/919028092555?text=Hi,%20I%20am%20interested%20in%20buying%20the%20domain%20StarlinkIndia.tech." 
+      target="_blank" 
+      class="cta-button"
+    >
+      Contact on WhatsApp
+    </a>
+    <div class="footer">Hurry before it's sold!</div>
+  </div>
+</body>
+</html>
